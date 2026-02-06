@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables (Crucial for security)
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Distribution / Builds
+build/
+dist/
+*.egg-info/
