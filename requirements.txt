@@ -1,8 +1,13 @@
 fastapi
 uvicorn
 motor
+pymongo<4.9
 pydantic
 pydantic-settings
 python-dotenv
 pytest
 httpx
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+email-validator
